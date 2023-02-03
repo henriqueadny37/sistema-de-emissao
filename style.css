@@ -1,6 +1,8 @@
 *{
     padding:0;
     margin: 0;
+    color: rgb(80, 18, 137);
+    font-family: Arial, Helvetica, sans-serif;
 }
 .dados{
     padding: 20px;
